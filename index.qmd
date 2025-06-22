@@ -3,3 +3,5 @@ title: "Example"
 format: html
 ---
 
+## Second header
+
