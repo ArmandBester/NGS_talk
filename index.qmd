@@ -1,7 +1,14 @@
 ---
 title: "Example"
-format: html
+author: Armand Bester
+format: revealjs
 ---
 
-## Second header
+## First slide
+
+bla
+
+## Second slide
+
+bla bla
 
