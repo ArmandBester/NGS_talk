@@ -1,16 +1,37 @@
 [
   {
-    "objectID": "index.html#first-slide",
-    "href": "index.html#first-slide",
-    "title": "Example",
-    "section": "First slide",
-    "text": "First slide\nbla"
+    "objectID": "index.html#hacking-the-chemistry-of-dna-polymerization",
+    "href": "index.html#hacking-the-chemistry-of-dna-polymerization",
+    "title": "Sequence Shenanigans",
+    "section": "Hacking the chemistry of DNA polymerization",
+    "text": "Hacking the chemistry of DNA polymerization\n\n\n\n\n\n\n\n\n\n\nFigure 1: Radford AD, et al (2012) DOI: 10.1099/vir.0.043182-0"
   },
   {
-    "objectID": "index.html#second-slide",
-    "href": "index.html#second-slide",
-    "title": "Example",
-    "section": "Second slide",
-    "text": "Second slide\nbla bla"
+    "objectID": "index.html#clonal-amplification-and-sequencing-by-synthesis",
+    "href": "index.html#clonal-amplification-and-sequencing-by-synthesis",
+    "title": "Sequence Shenanigans",
+    "section": "Clonal amplification and sequencing by synthesis",
+    "text": "Clonal amplification and sequencing by synthesis\n\n\n\n\n\n\n\n\n\n\nFigure 2: Leong IUS, et al (2014) DOI: 10.3390/medsci2020098. a) 454/IonTorrent, b) Illumina"
+  },
+  {
+    "objectID": "index.html#single-molecule-sequencing",
+    "href": "index.html#single-molecule-sequencing",
+    "title": "Sequence Shenanigans",
+    "section": "Single molecule sequencing",
+    "text": "Single molecule sequencing\n\n\n\n\n\n\n\n\n\n\nFigure 3: Oehler JB, et al (2023) DOI: 10.1186/s40246-023-00522-3"
+  },
+  {
+    "objectID": "index.html#oxford-nanopore-technologies",
+    "href": "index.html#oxford-nanopore-technologies",
+    "title": "Sequence Shenanigans",
+    "section": "Oxford Nanopore Technologies",
+    "text": "Oxford Nanopore Technologies\n\n\n\n\n\n\n\n\n\n\nFigure 4: https://nanoporetech.com/platform/technology/basecalling"
+  },
+  {
+    "objectID": "index.html#cost-vs.-moore",
+    "href": "index.html#cost-vs.-moore",
+    "title": "Sequence Shenanigans",
+    "section": "Cost vs. Moore",
+    "text": "Cost vs. Moore\n\n\n\n\n\n\n\n\n\n\nFigure 5: https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Costs-Data"
   }
 ]
