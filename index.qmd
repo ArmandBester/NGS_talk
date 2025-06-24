@@ -9,6 +9,7 @@ title-slide-attributes:
       data-background-opacity: "0.1"
 ---
 
+[Introduction]: #####------> Section for brief introduction
 
 ## Hacking the chemistry of DNA polymerization
 
@@ -60,4 +61,29 @@ https://nanoporetech.com/platform/technology/basecalling
 https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Costs-Data
 
 :::
+
+
+## Raw data and quality
+
+::: {#fig-fastq layout-ncol=2}
+
+![](media/fastq_fig.jpg)
+
+![](media/ASCII-Table-wide.svg)
+
+https://www.drive5.com/usearch/manual/fastq_files.html
+
+:::
+
+
+## The puzzel and the box
+
+::: {#fig-puzzel layout-ncol=1}
+
+![](media/DallE_flowers.png){width="50%"}
+
+DallE generated flowers
+:::
+
+
 
