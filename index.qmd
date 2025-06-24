@@ -62,6 +62,25 @@ https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Costs-Data
 
 :::
 
+## Phred / Q-scores
+
+Developed by Phil Green and Brent Ewing, 1990s
+
+$$
+Q=−10.log10(p)
+$${#eq-Q-score}
+
+or
+
+```
+Q10 = 90% (1/10 chance of an incorrect base call)
+Q20 = 99% (1/100 chance of an incorrect base call)
+Q30 = 99.9% (1/1,000 chance of an incorrect base call)
+Q40 = 99.99% (1/10,000 chance of an incorrect base call)
+Q50 = 99.999% (1/100,000 chance of an incorrect base call)
+Q60 = 99.9999% (1/1,000,000 chance of an incorrect base call)
+```
+    These have been adopted by NGS technologies and is encoded in the FASTQ files
 
 ## Raw data and quality
 
@@ -76,6 +95,7 @@ https://www.drive5.com/usearch/manual/fastq_files.html
 :::
 
 
+
 ## The puzzel and the box
 
 ::: {#fig-puzzel layout-ncol=1}
@@ -87,3 +107,35 @@ DallE generated flowers
 
 
 
+
+
+
+
+## Infant microbiome
+
+::: {#fig-alpha layout-ncol=1}
+![](media/infant_alpha.png){width="65%"}
+
+Alpha diversities over time
+:::
+
+$$
+H_s = - \sum_{i=1}^k p_i log_2(p_i)
+$${#eq-Shannon}
+
+## ...Example results
+
+::: {#fig-alpha layout-ncol=1}
+
+![](media/milton.png)
+
+* Krona reports
+    
+    [Krona 5b](html/krona/VRM-5B.krona.html)
+
+    [Krona 5d](html/krona/VRM-5D.krona.html)
+
+* [Pavian analysis](html/Uploaded_sample_set-report.html)
+
+
+:::

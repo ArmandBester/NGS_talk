@@ -35,6 +35,13 @@
     "text": "Cost vs. Moore\n\n\n\n\n\n\n\n\n\n\nFigure 5: https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Costs-Data"
   },
   {
+    "objectID": "index.html#phred-q-scores",
+    "href": "index.html#phred-q-scores",
+    "title": "Sequence Shenanigans",
+    "section": "Phred / Q-scores",
+    "text": "Phred / Q-scores\nDeveloped by Phil Green and Brent Ewing, 1990s\n\\[\nQ=−10.log10(p)\n\\qquad(1)\\]\nor\nQ10 = 90% (1/10 chance of an incorrect base call)\nQ20 = 99% (1/100 chance of an incorrect base call)\nQ30 = 99.9% (1/1,000 chance of an incorrect base call)\nQ40 = 99.99% (1/10,000 chance of an incorrect base call)\nQ50 = 99.999% (1/100,000 chance of an incorrect base call)\nQ60 = 99.9999% (1/1,000,000 chance of an incorrect base call)\nThese have been adopted by NGS technologies and is encoded in the FASTQ files"
+  },
+  {
     "objectID": "index.html#raw-data-and-quality",
     "href": "index.html#raw-data-and-quality",
     "title": "Sequence Shenanigans",
@@ -47,5 +54,19 @@
     "title": "Sequence Shenanigans",
     "section": "The puzzel and the box",
     "text": "The puzzel and the box\n\n\n\n\n\n\n\n\n\n\nFigure 7: DallE generated flowers"
+  },
+  {
+    "objectID": "index.html#infant-microbiome",
+    "href": "index.html#infant-microbiome",
+    "title": "Sequence Shenanigans",
+    "section": "Infant microbiome",
+    "text": "Infant microbiome\n\n\n\n\n\n\n\n\n\n\nFigure 8: Alpha diversities over time\n\n\n\n\\[\nH_s = - \\sum_{i=1}^k p_i log_2(p_i)\n\\qquad(2)\\]"
+  },
+  {
+    "objectID": "index.html#example-results",
+    "href": "index.html#example-results",
+    "title": "Sequence Shenanigans",
+    "section": "…Example results",
+    "text": "…Example results\n\n\n\n\n\n\n\n\n\n\n\nKrona reports\nKrona 5b\nKrona 5d\nPavian analysis\n\n\n\n\n\nFigure 9"
   }
 ]
