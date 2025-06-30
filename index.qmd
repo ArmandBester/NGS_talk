@@ -67,7 +67,7 @@ https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Costs-Data
 Developed by Phil Green and Brent Ewing, 1990s
 
 $$
-Q=−10.log10(p)
+Q=−10.log_{10}(p)
 $${#eq-Q-score}
 
 or
@@ -106,10 +106,6 @@ https://www.drive5.com/usearch/manual/fastq_files.html
 
 DallE generated flowers & Read types
 :::
-
-
-
-
 
 
 

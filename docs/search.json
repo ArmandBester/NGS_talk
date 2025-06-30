@@ -39,7 +39,7 @@
     "href": "index.html#phred-q-scores",
     "title": "Sequence Shenanigans",
     "section": "Phred / Q-scores",
-    "text": "Phred / Q-scores\nDeveloped by Phil Green and Brent Ewing, 1990s\n\\[\nQ=−10.log10(p)\n\\qquad(1)\\]\nor\nQ10 = 90%         (1/10 chance of an incorrect base call)\nQ20 = 99%         (1/100 chance of an incorrect base call)\nQ30 = 99.9%       (1/1,000 chance of an incorrect base call)\nQ40 = 99.99%      (1/10,000 chance of an incorrect base call)\nQ50 = 99.999%     (1/100,000 chance of an incorrect base call)\nQ60 = 99.9999%    (1/1,000,000 chance of an incorrect base call)\nThese have been adopted by NGS technologies and is encoded in the FASTQ files"
+    "text": "Phred / Q-scores\nDeveloped by Phil Green and Brent Ewing, 1990s\n\\[\nQ=−10.log_{10}(p)\n\\qquad(1)\\]\nor\nQ10 = 90%         (1/10 chance of an incorrect base call)\nQ20 = 99%         (1/100 chance of an incorrect base call)\nQ30 = 99.9%       (1/1,000 chance of an incorrect base call)\nQ40 = 99.99%      (1/10,000 chance of an incorrect base call)\nQ50 = 99.999%     (1/100,000 chance of an incorrect base call)\nQ60 = 99.9999%    (1/1,000,000 chance of an incorrect base call)\nThese have been adopted by NGS technologies and is encoded in the FASTQ files"
   },
   {
     "objectID": "index.html#raw-data-and-quality",
