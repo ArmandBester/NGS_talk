@@ -73,12 +73,12 @@ $${#eq-Q-score}
 or
 
 ```
-Q10 = 90% (1/10 chance of an incorrect base call)
-Q20 = 99% (1/100 chance of an incorrect base call)
-Q30 = 99.9% (1/1,000 chance of an incorrect base call)
-Q40 = 99.99% (1/10,000 chance of an incorrect base call)
-Q50 = 99.999% (1/100,000 chance of an incorrect base call)
-Q60 = 99.9999% (1/1,000,000 chance of an incorrect base call)
+Q10 = 90%         (1/10 chance of an incorrect base call)
+Q20 = 99%         (1/100 chance of an incorrect base call)
+Q30 = 99.9%       (1/1,000 chance of an incorrect base call)
+Q40 = 99.99%      (1/10,000 chance of an incorrect base call)
+Q50 = 99.999%     (1/100,000 chance of an incorrect base call)
+Q60 = 99.9999%    (1/1,000,000 chance of an incorrect base call)
 ```
     These have been adopted by NGS technologies and is encoded in the FASTQ files
 
@@ -98,11 +98,13 @@ https://www.drive5.com/usearch/manual/fastq_files.html
 
 ## The puzzel and the box
 
-::: {#fig-puzzel layout-ncol=1}
+::: {#fig-puzzel layout-ncol=2}
 
-![](media/DallE_flowers.png){width="50%"}
+![](media/DallE_flowers.png){width="100%"}
 
-DallE generated flowers
+![](media/arious-read-types-and-read-lengths-and-the-application-of-those-reads-for-DNA-and-RNA.png)
+
+DallE generated flowers & Read types
 :::
 
 
