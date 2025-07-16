@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "index.html#hacking-the-chemistry-of-dna-polymerization",
+    "href": "index.html#hacking-the-chemistry-of-dna-polymerization",
+    "title": "Sequence Shenanigans",
+    "section": "Hacking the chemistry of DNA polymerization",
+    "text": "Hacking the chemistry of DNA polymerization\n\n\n\n\n\n\n\n\n\n\nFigure 1: Radford AD, et al (2012) DOI: 10.1099/vir.0.043182-0"
+  },
+  {
+    "objectID": "index.html#clonal-amplification-and-sequencing-by-synthesis",
+    "href": "index.html#clonal-amplification-and-sequencing-by-synthesis",
+    "title": "Sequence Shenanigans",
+    "section": "Clonal amplification and sequencing by synthesis",
+    "text": "Clonal amplification and sequencing by synthesis\n\n\n\n\n\n\n\n\n\n\nFigure 2: Leong IUS, et al (2014) DOI: 10.3390/medsci2020098. a) 454/IonTorrent, b) Illumina"
+  },
+  {
+    "objectID": "index.html#ion-torrent",
+    "href": "index.html#ion-torrent",
+    "title": "Sequence Shenanigans",
+    "section": "Ion Torrent",
+    "text": "Ion Torrent\nOne molecule, one bead, one bubble, one well\n\nemPCR for clonal amplification\n\nDNA fragments or amplicons, adapters are ligated to both ends\n\nMore beads than DNA molecules\nAdapters serves as PCR priming sites\n… ‘primers’ are attached to the beads\n\nBeads are embedded in oil droplets\n\none bead per droplet\nMicro PCR vesecle\n\nVesecles are disrupted"
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "Sequence Shenanigans",
+    "section": "…",
+    "text": "…\n\nWells fit only one bead\nAmplification with only one of A,C,G,T provided at a time\nIncorporation of a dNTP yields a proton / \\(H^+\\) ion\npH changes releative to the number of specific dNTP incorporation\n\n\n\n\n\n\n\n\n\n\n\nFigure 3: Escalante AE, et al (2014) DOI: 10.7550/rmb.43498."
+  },
+  {
+    "objectID": "index.html#ion-torrnet-pros-vs-cons",
+    "href": "index.html#ion-torrnet-pros-vs-cons",
+    "title": "Sequence Shenanigans",
+    "section": "Ion Torrnet: Pros vs Cons",
+    "text": "Ion Torrnet: Pros vs Cons\n\nPros: Faster, cheeper, natural chemistry, no ropes and pulleys\nCons: Homopolymer issues, slightly lower Q-scores compared to Illumina\n\n\n\n\n\n\n\n\n\n\n\nFigure 4: OpenAI: Depict a skyscraper vs a 3-story building in a cartoon style"
+  },
+  {
+    "objectID": "index.html#ion-torrrent-sales-pitch",
+    "href": "index.html#ion-torrrent-sales-pitch",
+    "title": "Sequence Shenanigans",
+    "section": "Ion Torrrent: Sales pitch",
+    "text": "Ion Torrrent: Sales pitch"
+  },
+  {
+    "objectID": "index.html#stems-from-older-roche-454-sequencing",
+    "href": "index.html#stems-from-older-roche-454-sequencing",
+    "title": "Sequence Shenanigans",
+    "section": "Stems from older Roche 454 sequencing",
+    "text": "Stems from older Roche 454 sequencing\n\n\\(PP_i\\) + adenosine \\(5′\\) phosphosulfate + ATP sulfurylase \\(-&gt;\\) ATP + \\(SO_4^{-2}\\)\nATP + luciferin + luciferase \\(-&gt;\\) AMP + \\(PP_i\\) + oxyluciferin + \\(CO_2\\) ​+ light\nThe enzyme apyrase degrades ATP and any unused or unincorporated nucleotides\n\n\n\n\n\n\n\n\n\n\n\nFigure 5: Flux AI: Depict fireflies in photorealistic style"
+  },
+  {
+    "objectID": "index.html#single-molecule-sequencing",
+    "href": "index.html#single-molecule-sequencing",
+    "title": "Sequence Shenanigans",
+    "section": "Single molecule sequencing",
+    "text": "Single molecule sequencing\n\n\n\n\n\n\n\n\n\n\nFigure 6: Oehler JB, et al (2023) DOI: 10.1186/s40246-023-00522-3"
+  },
+  {
+    "objectID": "index.html#oxford-nanopore-technologies",
+    "href": "index.html#oxford-nanopore-technologies",
+    "title": "Sequence Shenanigans",
+    "section": "Oxford Nanopore Technologies",
+    "text": "Oxford Nanopore Technologies\n\n\n\n\n\n\n\n\n\n\nFigure 7: https://nanoporetech.com/platform/technology/basecalling"
+  },
+  {
+    "objectID": "index.html#cost-vs.-moore",
+    "href": "index.html#cost-vs.-moore",
+    "title": "Sequence Shenanigans",
+    "section": "Cost vs. Moore",
+    "text": "Cost vs. Moore\n\n\n\n\n\n\n\n\n\n\nFigure 8: https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Costs-Data"
+  },
+  {
+    "objectID": "index.html#phred-q-scores",
+    "href": "index.html#phred-q-scores",
+    "title": "Sequence Shenanigans",
+    "section": "Phred / Q-scores",
+    "text": "Phred / Q-scores\nDeveloped by Phil Green and Brent Ewing, 1990s\n\\[\nQ=−10.log_{10}(p)\n\\qquad(1)\\]\nor\nQ10 = 90%         (1/10 chance of an incorrect base call)\nQ20 = 99%         (1/100 chance of an incorrect base call)\nQ30 = 99.9%       (1/1,000 chance of an incorrect base call)\nQ40 = 99.99%      (1/10,000 chance of an incorrect base call)\nQ50 = 99.999%     (1/100,000 chance of an incorrect base call)\nQ60 = 99.9999%    (1/1,000,000 chance of an incorrect base call)\nThese have been adopted by NGS technologies and is encoded in the FASTQ files"
+  },
+  {
+    "objectID": "index.html#raw-data-and-quality",
+    "href": "index.html#raw-data-and-quality",
+    "title": "Sequence Shenanigans",
+    "section": "Raw data and quality",
+    "text": "Raw data and quality\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 9: https://www.drive5.com/usearch/manual/fastq_files.html"
+  },
+  {
+    "objectID": "index.html#the-puzzel-and-the-box",
+    "href": "index.html#the-puzzel-and-the-box",
+    "title": "Sequence Shenanigans",
+    "section": "The puzzel and the box",
+    "text": "The puzzel and the box\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 10: DallE generated flowers & Read types"
+  },
+  {
+    "objectID": "index.html#sars-cov-2",
+    "href": "index.html#sars-cov-2",
+    "title": "Sequence Shenanigans",
+    "section": "SARS-CoV-2",
+    "text": "SARS-CoV-2\n\n\n\n\n\n\n\n\n\n\nFigure 11: Illustration by David S. Goodsell, RCSB Protein Data Bank; doi: 10.2210/rcsb_pdb/goodsell-gallery-026\n\n\n\nGoodsell gallery"
+  },
+  {
+    "objectID": "index.html#tiling-pcr",
+    "href": "index.html#tiling-pcr",
+    "title": "Sequence Shenanigans",
+    "section": "Tiling PCR",
+    "text": "Tiling PCR\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 12: Trippy tunes and tiling PCR design software"
+  },
+  {
+    "objectID": "index.html#infant-microbiome",
+    "href": "index.html#infant-microbiome",
+    "title": "Sequence Shenanigans",
+    "section": "Infant microbiome",
+    "text": "Infant microbiome\n\n\n\n\n\n\n\n\n\n\nFigure 13: Alpha diversities over time\n\n\n\n\\[\nH_s = - \\sum_{i=1}^k p_i log_2(p_i)\n\\qquad(2)\\]"
+  },
+  {
+    "objectID": "index.html#example-results",
+    "href": "index.html#example-results",
+    "title": "Sequence Shenanigans",
+    "section": "…Example results",
+    "text": "…Example results\n\n\n\n\n\n\n\n\n\n\n\nKrona reports\nKrona 5b\nKrona 5d\nPavian analysis\n\n\n\n\n\nFigure 14"
+  }
+]

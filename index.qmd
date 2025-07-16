@@ -1,0 +1,231 @@
+---
+title: "Sequence Shenanigans"
+author: Armand Bester
+date: 22 July 2025
+format: revealjs
+fontsize: 28px
+chalkboard: true
+title-slide-attributes:
+    data-background-image: media/Intro_DNA_mag.png
+    data-background-size: contain
+    data-background-opacity: "0.1"
+
+---
+
+
+
+[Introduction]: #####------> Section for brief introduction
+
+## Hacking the chemistry of DNA polymerization
+
+::: {#fig-DNA_chem layout-ncol=1}
+
+![](media/Radford.jpg)
+
+Radford AD, et al (2012) DOI: 10.1099/vir.0.043182-0
+
+:::
+
+## Clonal amplification and sequencing by synthesis
+
+::: {#fig-clonal layout-ncol=1}
+
+![](media/clonal_amplification.png){width=80%}
+
+Leong IUS, et al (2014) DOI: 10.3390/medsci2020098. **a)** 454/IonTorrent, **b)** Illumina
+
+:::
+
+## Ion Torrent
+
+`One molecule, one bead, one bubble, one well`
+
+* emPCR for clonal amplification
+    * DNA fragments or amplicons, adapters are ligated to both ends
+        * More beads than DNA molecules
+        * Adapters serves as PCR priming sites
+        * ... 'primers' are attached to the beads
+    * Beads are embedded in oil droplets
+        * one bead per droplet
+        * Micro PCR vesecle
+    * Vesecles are disrupted
+
+## ...
+
+* Wells fit only one bead
+* Amplification with only one of A,C,G,T provided at a time
+* Incorporation of a dNTP yields a proton / $H^+$ ion
+* pH changes releative to the number of specific dNTP incorporation
+
+::: {#fig-clonal layout-ncol=1}
+
+![](media/IonTor_pic.png){width=30%}
+
+Escalante AE, et al (2014) DOI: 10.7550/rmb.43498.
+
+:::
+
+
+## Ion Torrnet: Pros vs Cons
+
+* Pros: Faster, cheeper, natural chemistry, no ropes and pulleys 
+* Cons: Homopolymer issues, `slightly` lower Q-scores compared to Illumina
+
+::: {#fig-homopol layout-ncol=1}
+
+![](media/OpenAI_Skyscraper_vs_flat.png){width=25%}
+
+OpenAI: Depict a skyscraper vs a 3-story building in a cartoon style
+
+:::
+
+## Ion Torrrent: Sales pitch
+
+{{< video https://www.youtube.com/watch?v=zBPKj0mMcDg
+    title="Ion Torrent?"
+    width="1120" height="630" 
+>}}
+
+
+## Stems from older Roche 454 sequencing
+
+* $PP_i$ + adenosine $5′$ phosphosulfate + **ATP sulfurylase** $->$ ATP + $SO_4^{-2}$
+* ATP + luciferin + **luciferase** $->$ AMP + $PP_i$ + oxyluciferin + $CO_2$ ​+ light
+* The enzyme apyrase degrades ATP and any unused or unincorporated nucleotides
+
+::: {#fig-roche454 layout-ncol=1}
+
+![](media/firefly.gif){width=70%}
+
+Flux AI: Depict fireflies in photorealistic style
+
+:::
+
+## Single molecule sequencing
+
+::: {#fig-single_mol layout-ncol=1}
+
+![](media/pack_bio_and_ont.webp){width=75%}
+
+Oehler JB, et al (2023) DOI: 10.1186/s40246-023-00522-3
+
+:::
+
+## Oxford Nanopore Technologies
+
+::: {#fig-ont layout-ncol=1}
+
+![](media/MinION_GIF_08.gif)
+
+https://nanoporetech.com/platform/technology/basecalling
+
+:::
+
+
+## Cost vs. Moore
+
+::: {#fig-moore layout-ncol=1}
+
+![](media/2022_Sequencing_cost_per_Human_Genome.jpg)
+
+https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Costs-Data
+
+:::
+
+## Phred / Q-scores
+
+Developed by Phil Green and Brent Ewing, 1990s
+
+$$
+Q=−10.log_{10}(p)
+$${#eq-Q-score}
+
+or
+
+```
+Q10 = 90%         (1/10 chance of an incorrect base call)
+Q20 = 99%         (1/100 chance of an incorrect base call)
+Q30 = 99.9%       (1/1,000 chance of an incorrect base call)
+Q40 = 99.99%      (1/10,000 chance of an incorrect base call)
+Q50 = 99.999%     (1/100,000 chance of an incorrect base call)
+Q60 = 99.9999%    (1/1,000,000 chance of an incorrect base call)
+```
+    These have been adopted by NGS technologies and is encoded in the FASTQ files
+
+## Raw data and quality
+
+::: {#fig-fastq layout-ncol=2}
+
+![](media/fastq_fig.jpg)
+
+![](media/ASCII-Table-wide.svg)
+
+https://www.drive5.com/usearch/manual/fastq_files.html
+
+:::
+
+
+
+## The puzzel and the box
+
+::: {#fig-puzzel layout-ncol=2}
+
+![](media/DallE_flowers.png){width="100%"}
+
+![](media/arious-read-types-and-read-lengths-and-the-application-of-those-reads-for-DNA-and-RNA.png)
+
+DallE generated flowers & Read types
+:::
+
+
+## SARS-CoV-2
+
+::: {#fig-alpha layout-ncol=1}
+![](media/sars-cov-2-fusion.png){width="65%"}
+
+Illustration by David S. Goodsell, RCSB Protein Data Bank; doi: 10.2210/rcsb_pdb/goodsell-gallery-026
+:::
+[Goodsell gallery](https://pdb101.rcsb.org/sci-art/goodsell-gallery/)
+
+
+## Tiling PCR
+
+::: {#fig-primal_scheme layout-ncol=2}
+
+![](media/primal_scream.png)
+
+![](media/primal_scheme.png)
+
+Trippy tunes and tiling PCR design software
+:::
+
+
+
+## Infant microbiome
+
+::: {#fig-alpha layout-ncol=1}
+![](media/infant_alpha.png){width="65%"}
+
+Alpha diversities over time
+:::
+
+$$
+H_s = - \sum_{i=1}^k p_i log_2(p_i)
+$${#eq-Shannon}
+
+## ...Example results
+
+::: {#fig-alpha layout-ncol=1}
+
+![](media/milton.png)
+
+* Krona reports
+    
+    [Krona 5b](html/krona/VRM-5B.krona.html)
+
+    [Krona 5d](html/krona/VRM-5D.krona.html)
+
+* [Pavian analysis](html/Uploaded_sample_set-report.html)
+
+
+:::
