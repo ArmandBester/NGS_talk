@@ -197,8 +197,8 @@ Figure&nbsp;2: Leong IUS, et al (2014) DOI: 10.3390/medsci2020098. <strong>a)</s
 </ul></li>
 </ul>
 </section>
-<section id="section" class="slide level2">
-<h2>…</h2>
+<section class="slide level2">
+
 <ul>
 <li>Wells fit only one bead</li>
 <li>Amplification with only one of A,C,G,T provided at a time</li>
@@ -210,7 +210,7 @@ Figure&nbsp;2: Leong IUS, et al (2014) DOI: 10.3390/medsci2020098. <strong>a)</s
 <div aria-describedby="fig-clonal-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: flex-start;">
-<img data-src="media/IonTor_pic.png" style="width:30.0%">
+<img data-src="media/IonTor_pic.png" style="width:50.0%">
 </div>
 </div>
 </div>
@@ -267,6 +267,63 @@ Figure&nbsp;5: Flux AI: Depict fireflies in photorealistic style
 </figure>
 </div>
 </section>
+<section id="illumina-sequencing" class="slide level2">
+<h2>Illumina sequencing</h2>
+<p><code>clonal 'pixels' by bridge amplification</code></p>
+<div id="fig-roche454" class="quarto-layout-panel">
+<figure class="quarto-float quarto-float-fig">
+<div aria-describedby="fig-roche454-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: flex-start;">
+<img data-src="media/flux_bamboo_forest.png" style="width:80.0%">
+</div>
+</div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-roche454-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;6: Flux AI: Depict a bamboo forest in photo realistic style
+</figcaption>
+</figure>
+</div>
+</section>
+<section id="principle" class="slide level2">
+<h2>Principle</h2>
+<ul>
+<li>Library prep
+<ul>
+<li>DNA is fragmented, typically transposons/transposases are used, but other fragmentation methods also exist</li>
+</ul></li>
+<li>Clonal amplification
+<ul>
+<li>Bridge amplification is used rather than emulsion PCR (emPCR)</li>
+<li>This happens on flow cell clusters and not beads</li>
+</ul></li>
+</ul>
+</section>
+<section class="slide level2">
+
+<ul>
+<li>In each cycle all four nucleotides are available
+<ul>
+<li>They are fluorescently labeled AND 3` terminus is blocked</li>
+<li>The incorporated nucleotide is excited by light</li>
+<li>The incorporated base is determined by the frequency of the light which was emitted</li>
+<li>The 3` end is unblocked and a new cycle begins
+<ul>
+<li>Only one nucleotide can be incorporated in a cycle</li>
+<li>The read length is determined by the number of cycles</li>
+</ul></li>
+</ul></li>
+<li>The DNA fragments are typically sequenced from both ends, resulting in paired reads</li>
+</ul>
+</section>
+<section id="illumina-sales-pitch" class="slide level2">
+<h2>Illumina: Sales pitch</h2>
+<ul>
+<li>Pros: Does not suffer from homopolymer issues, higher Q-scores</li>
+<li>Cons: Slower, more expensive (modified dNTPS)</li>
+</ul>
+<iframe data-external="1" src="https://www.youtube.com/embed/womKfikWlxM" width="900" height="500" title="Illumina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</section>
 <section id="single-molecule-sequencing" class="slide level2">
 <h2>Single molecule sequencing</h2>
 <div id="fig-single_mol" class="quarto-layout-panel">
@@ -279,7 +336,7 @@ Figure&nbsp;5: Flux AI: Depict fireflies in photorealistic style
 </div>
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-single_mol-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;6: Oehler JB, et al (2023) DOI: 10.1186/s40246-023-00522-3
+Figure&nbsp;7: Oehler JB, et al (2023) DOI: 10.1186/s40246-023-00522-3
 </figcaption>
 </figure>
 </div>
@@ -296,7 +353,7 @@ Figure&nbsp;6: Oehler JB, et al (2023) DOI: 10.1186/s40246-023-00522-3
 </div>
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-ont-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;7: https://nanoporetech.com/platform/technology/basecalling
+Figure&nbsp;8: https://nanoporetech.com/platform/technology/basecalling
 </figcaption>
 </figure>
 </div>
@@ -313,7 +370,7 @@ Figure&nbsp;7: https://nanoporetech.com/platform/technology/basecalling
 </div>
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-moore-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;8: https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Costs-Data
+Figure&nbsp;9: https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Costs-Data
 </figcaption>
 </figure>
 </div>
@@ -348,7 +405,7 @@ Q60 = 99.9999%    (1/1,000,000 chance of an incorrect base call)</code></pre>
 </div>
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-fastq-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;9: https://www.drive5.com/usearch/manual/fastq_files.html
+Figure&nbsp;10: https://www.drive5.com/usearch/manual/fastq_files.html
 </figcaption>
 </figure>
 </div>
@@ -368,7 +425,7 @@ Figure&nbsp;9: https://www.drive5.com/usearch/manual/fastq_files.html
 </div>
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-puzzel-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;10: DallE generated flowers &amp; Read types
+Figure&nbsp;11: DallE generated flowers &amp; Read types
 </figcaption>
 </figure>
 </div>
@@ -385,7 +442,7 @@ Figure&nbsp;10: DallE generated flowers &amp; Read types
 </div>
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-alpha-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;11: Illustration by David S. Goodsell, RCSB Protein Data Bank; doi: 10.2210/rcsb_pdb/goodsell-gallery-026
+Figure&nbsp;12: Illustration by David S. Goodsell, RCSB Protein Data Bank; doi: 10.2210/rcsb_pdb/goodsell-gallery-026
 </figcaption>
 </figure>
 </div>
@@ -397,16 +454,16 @@ Figure&nbsp;11: Illustration by David S. Goodsell, RCSB Protein Data Bank; doi: 
 <figure class="quarto-float quarto-float-fig">
 <div aria-describedby="fig-primal_scheme-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
 <p><img data-src="media/primal_scream.png"></p>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
 <p><img data-src="media/primal_scheme.png"></p>
 </div>
 </div>
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-primal_scheme-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;12: Trippy tunes and tiling PCR design software
+Figure&nbsp;13: Trippy tunes and tiling PCR design software
 </figcaption>
 </figure>
 </div>
@@ -423,7 +480,7 @@ Figure&nbsp;12: Trippy tunes and tiling PCR design software
 </div>
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-alpha-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;13: Alpha diversities over time
+Figure&nbsp;14: Alpha diversities over time
 </figcaption>
 </figure>
 </div>
@@ -453,7 +510,7 @@ H_s = - \sum_{i=1}^k p_i log_2(p_i)
 </div>
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig quarto-uncaptioned" id="fig-alpha-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;14
+Figure&nbsp;15
 </figcaption>
 </figure>
 </div>

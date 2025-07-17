@@ -21,13 +21,6 @@
     "text": "Ion Torrent\nOne molecule, one bead, one bubble, one well\n\nemPCR for clonal amplification\n\nDNA fragments or amplicons, adapters are ligated to both ends\n\nMore beads than DNA molecules\nAdapters serves as PCR priming sites\n… ‘primers’ are attached to the beads\n\nBeads are embedded in oil droplets\n\none bead per droplet\nMicro PCR vesecle\n\nVesecles are disrupted"
   },
   {
-    "objectID": "index.html#section",
-    "href": "index.html#section",
-    "title": "Sequence Shenanigans",
-    "section": "…",
-    "text": "…\n\nWells fit only one bead\nAmplification with only one of A,C,G,T provided at a time\nIncorporation of a dNTP yields a proton / \\(H^+\\) ion\npH changes releative to the number of specific dNTP incorporation\n\n\n\n\n\n\n\n\n\n\n\nFigure 3: Escalante AE, et al (2014) DOI: 10.7550/rmb.43498."
-  },
-  {
     "objectID": "index.html#ion-torrnet-pros-vs-cons",
     "href": "index.html#ion-torrnet-pros-vs-cons",
     "title": "Sequence Shenanigans",
@@ -49,25 +42,46 @@
     "text": "Stems from older Roche 454 sequencing\n\n\\(PP_i\\) + adenosine \\(5′\\) phosphosulfate + ATP sulfurylase \\(-&gt;\\) ATP + \\(SO_4^{-2}\\)\nATP + luciferin + luciferase \\(-&gt;\\) AMP + \\(PP_i\\) + oxyluciferin + \\(CO_2\\) ​+ light\nThe enzyme apyrase degrades ATP and any unused or unincorporated nucleotides\n\n\n\n\n\n\n\n\n\n\n\nFigure 5: Flux AI: Depict fireflies in photorealistic style"
   },
   {
+    "objectID": "index.html#illumina-sequencing",
+    "href": "index.html#illumina-sequencing",
+    "title": "Sequence Shenanigans",
+    "section": "Illumina sequencing",
+    "text": "Illumina sequencing\nclonal 'pixels' by bridge amplification\n\n\n\n\n\n\n\n\n\n\nFigure 6: Flux AI: Depict a bamboo forest in photo realistic style"
+  },
+  {
+    "objectID": "index.html#principle",
+    "href": "index.html#principle",
+    "title": "Sequence Shenanigans",
+    "section": "Principle",
+    "text": "Principle\n\nLibrary prep\n\nDNA is fragmented, typically transposons/transposases are used, but other fragmentation methods also exist\n\nClonal amplification\n\nBridge amplification is used rather than emulsion PCR (emPCR)\nThis happens on flow cell clusters and not beads"
+  },
+  {
+    "objectID": "index.html#illumina-sales-pitch",
+    "href": "index.html#illumina-sales-pitch",
+    "title": "Sequence Shenanigans",
+    "section": "Illumina: Sales pitch",
+    "text": "Illumina: Sales pitch\n\nPros: Does not suffer from homopolymer issues, higher Q-scores\nCons: Slower, more expensive (modified dNTPS)"
+  },
+  {
     "objectID": "index.html#single-molecule-sequencing",
     "href": "index.html#single-molecule-sequencing",
     "title": "Sequence Shenanigans",
     "section": "Single molecule sequencing",
-    "text": "Single molecule sequencing\n\n\n\n\n\n\n\n\n\n\nFigure 6: Oehler JB, et al (2023) DOI: 10.1186/s40246-023-00522-3"
+    "text": "Single molecule sequencing\n\n\n\n\n\n\n\n\n\n\nFigure 7: Oehler JB, et al (2023) DOI: 10.1186/s40246-023-00522-3"
   },
   {
     "objectID": "index.html#oxford-nanopore-technologies",
     "href": "index.html#oxford-nanopore-technologies",
     "title": "Sequence Shenanigans",
     "section": "Oxford Nanopore Technologies",
-    "text": "Oxford Nanopore Technologies\n\n\n\n\n\n\n\n\n\n\nFigure 7: https://nanoporetech.com/platform/technology/basecalling"
+    "text": "Oxford Nanopore Technologies\n\n\n\n\n\n\n\n\n\n\nFigure 8: https://nanoporetech.com/platform/technology/basecalling"
   },
   {
     "objectID": "index.html#cost-vs.-moore",
     "href": "index.html#cost-vs.-moore",
     "title": "Sequence Shenanigans",
     "section": "Cost vs. Moore",
-    "text": "Cost vs. Moore\n\n\n\n\n\n\n\n\n\n\nFigure 8: https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Costs-Data"
+    "text": "Cost vs. Moore\n\n\n\n\n\n\n\n\n\n\nFigure 9: https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Costs-Data"
   },
   {
     "objectID": "index.html#phred-q-scores",
@@ -81,41 +95,41 @@
     "href": "index.html#raw-data-and-quality",
     "title": "Sequence Shenanigans",
     "section": "Raw data and quality",
-    "text": "Raw data and quality\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 9: https://www.drive5.com/usearch/manual/fastq_files.html"
+    "text": "Raw data and quality\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 10: https://www.drive5.com/usearch/manual/fastq_files.html"
   },
   {
     "objectID": "index.html#the-puzzel-and-the-box",
     "href": "index.html#the-puzzel-and-the-box",
     "title": "Sequence Shenanigans",
     "section": "The puzzel and the box",
-    "text": "The puzzel and the box\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 10: DallE generated flowers & Read types"
+    "text": "The puzzel and the box\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 11: DallE generated flowers & Read types"
   },
   {
     "objectID": "index.html#sars-cov-2",
     "href": "index.html#sars-cov-2",
     "title": "Sequence Shenanigans",
     "section": "SARS-CoV-2",
-    "text": "SARS-CoV-2\n\n\n\n\n\n\n\n\n\n\nFigure 11: Illustration by David S. Goodsell, RCSB Protein Data Bank; doi: 10.2210/rcsb_pdb/goodsell-gallery-026\n\n\n\nGoodsell gallery"
+    "text": "SARS-CoV-2\n\n\n\n\n\n\n\n\n\n\nFigure 12: Illustration by David S. Goodsell, RCSB Protein Data Bank; doi: 10.2210/rcsb_pdb/goodsell-gallery-026\n\n\n\nGoodsell gallery"
   },
   {
     "objectID": "index.html#tiling-pcr",
     "href": "index.html#tiling-pcr",
     "title": "Sequence Shenanigans",
     "section": "Tiling PCR",
-    "text": "Tiling PCR\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 12: Trippy tunes and tiling PCR design software"
+    "text": "Tiling PCR\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 13: Trippy tunes and tiling PCR design software"
   },
   {
     "objectID": "index.html#infant-microbiome",
     "href": "index.html#infant-microbiome",
     "title": "Sequence Shenanigans",
     "section": "Infant microbiome",
-    "text": "Infant microbiome\n\n\n\n\n\n\n\n\n\n\nFigure 13: Alpha diversities over time\n\n\n\n\\[\nH_s = - \\sum_{i=1}^k p_i log_2(p_i)\n\\qquad(2)\\]"
+    "text": "Infant microbiome\n\n\n\n\n\n\n\n\n\n\nFigure 14: Alpha diversities over time\n\n\n\n\\[\nH_s = - \\sum_{i=1}^k p_i log_2(p_i)\n\\qquad(2)\\]"
   },
   {
     "objectID": "index.html#example-results",
     "href": "index.html#example-results",
     "title": "Sequence Shenanigans",
     "section": "…Example results",
-    "text": "…Example results\n\n\n\n\n\n\n\n\n\n\n\nKrona reports\nKrona 5b\nKrona 5d\nPavian analysis\n\n\n\n\n\nFigure 14"
+    "text": "…Example results\n\n\n\n\n\n\n\n\n\n\n\nKrona reports\nKrona 5b\nKrona 5d\nPavian analysis\n\n\n\n\n\nFigure 15"
   }
 ]
