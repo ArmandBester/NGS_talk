@@ -350,6 +350,27 @@ Illustration by David S. Goodsell, RCSB Protein Data Bank; doi: 10.2210/rcsb_pdb
 Trippy tunes and tiling PCR design software
 :::
 
+## Tiled reads mapped
+
+::: {#fig-tiled layout-ncol=1}
+![](media/sars_cov2_igv_snapshot.png){width="80%"}
+
+Snapshot of tiled PCR products mapped against SARS-COV2 ref genome
+:::
+
+## Necessity and the pink calculator
+
+
+::: {#fig-contam layout-ncol=2}
+![](media/pink_calculator.jpg){width="1%"}
+
+![](media/decontam.png){width="8%"}
+
+A dodgy pink calculator and the lemonade
+:::
+
+
+
 
 
 ## Infant microbiome
