@@ -70,18 +70,60 @@
     "text": "Single molecule sequencing\n\n\n\n\n\n\n\n\n\n\nFigure 7: Oehler JB, et al (2023) DOI: 10.1186/s40246-023-00522-3"
   },
   {
+    "objectID": "index.html#pros-and-cons",
+    "href": "index.html#pros-and-cons",
+    "title": "Sequence Shenanigans",
+    "section": "… Pros and cons",
+    "text": "… Pros and cons\n\nDoes not require clonal amplification\nLibrary preparation is much simpler\nGenerates much longer reads\nSuffers from accuracy - or maybe not so much\n\nIf I have a 1 in 10 chance of an error, which is random:\n\\[(\\frac{1}{10})^{10} = \\frac{1}{10^{10}}\\]"
+  },
+  {
+    "objectID": "index.html#pacbio-single-molecule-real-time-smrt",
+    "href": "index.html#pacbio-single-molecule-real-time-smrt",
+    "title": "Sequence Shenanigans",
+    "section": "PacBio Single-molecule real-time (SMRT)",
+    "text": "PacBio Single-molecule real-time (SMRT)\n\nLibrary preparation\n\nFormation of a SMRTbell as template\n\nClosed single stranded circular DNA\nThis is achieved by ligating hairpin adaptors to both ends of the target dsDNA\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 8: Rhoads A and Fai Au K (2015), doi: 10.1016/j.gpb.2015.08.002"
+  },
+  {
+    "objectID": "index.html#pacific-biosciences-sales-pitch",
+    "href": "index.html#pacific-biosciences-sales-pitch",
+    "title": "Sequence Shenanigans",
+    "section": "Pacific Biosciences: sales pitch",
+    "text": "Pacific Biosciences: sales pitch"
+  },
+  {
     "objectID": "index.html#oxford-nanopore-technologies",
     "href": "index.html#oxford-nanopore-technologies",
     "title": "Sequence Shenanigans",
     "section": "Oxford Nanopore Technologies",
-    "text": "Oxford Nanopore Technologies\n\n\n\n\n\n\n\n\n\n\nFigure 8: https://nanoporetech.com/platform/technology/basecalling"
+    "text": "Oxford Nanopore Technologies\n\n\n\n\n\n\n\n\n\n\nFigure 10: https://nanoporetech.com/platform/technology/basecalling"
+  },
+  {
+    "objectID": "index.html#the-ont-principle",
+    "href": "index.html#the-ont-principle",
+    "title": "Sequence Shenanigans",
+    "section": "The ONT principle",
+    "text": "The ONT principle\n\nBiological pores or transporters are embedded in a semiconductor chip\n\nAs particles pass through this chip the resistance over the membrane changes\n\ndsDNA or RNA is mixed with a motor protein which binds these molecules to the pores\nThe DNA or RNA is threaded through the pores and the changes in current is recorded\nThis wave pattern is used to infer the sequence\nVery long read lengths\nCan detect epigenetics\nThey promise protein sequencing\n\nMulti-omics"
+  },
+  {
+    "objectID": "index.html#oxford-nanopore-technologies-sales-pitch",
+    "href": "index.html#oxford-nanopore-technologies-sales-pitch",
+    "title": "Sequence Shenanigans",
+    "section": "Oxford Nanopore Technologies: sales pitch",
+    "text": "Oxford Nanopore Technologies: sales pitch"
+  },
+  {
+    "objectID": "index.html#many-more-developments",
+    "href": "index.html#many-more-developments",
+    "title": "Sequence Shenanigans",
+    "section": "Many more developments",
+    "text": "Many more developments\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 12: Yanzhe Qin, et al (2025) DOI: https://doi.org/10.1038/s41592-025-02730-2"
   },
   {
     "objectID": "index.html#cost-vs.-moore",
     "href": "index.html#cost-vs.-moore",
     "title": "Sequence Shenanigans",
     "section": "Cost vs. Moore",
-    "text": "Cost vs. Moore\n\n\n\n\n\n\n\n\n\n\nFigure 9: https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Costs-Data"
+    "text": "Cost vs. Moore\n\n\n\n\n\n\n\n\n\n\nFigure 13: https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Costs-Data"
   },
   {
     "objectID": "index.html#phred-q-scores",
@@ -95,41 +137,41 @@
     "href": "index.html#raw-data-and-quality",
     "title": "Sequence Shenanigans",
     "section": "Raw data and quality",
-    "text": "Raw data and quality\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 10: https://www.drive5.com/usearch/manual/fastq_files.html"
+    "text": "Raw data and quality\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 14: https://www.drive5.com/usearch/manual/fastq_files.html"
   },
   {
     "objectID": "index.html#the-puzzel-and-the-box",
     "href": "index.html#the-puzzel-and-the-box",
     "title": "Sequence Shenanigans",
     "section": "The puzzel and the box",
-    "text": "The puzzel and the box\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 11: DallE generated flowers & Read types"
+    "text": "The puzzel and the box\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 15: DallE generated flowers & Read types"
   },
   {
     "objectID": "index.html#sars-cov-2",
     "href": "index.html#sars-cov-2",
     "title": "Sequence Shenanigans",
     "section": "SARS-CoV-2",
-    "text": "SARS-CoV-2\n\n\n\n\n\n\n\n\n\n\nFigure 12: Illustration by David S. Goodsell, RCSB Protein Data Bank; doi: 10.2210/rcsb_pdb/goodsell-gallery-026\n\n\n\nGoodsell gallery"
+    "text": "SARS-CoV-2\n\n\n\n\n\n\n\n\n\n\nFigure 16: Illustration by David S. Goodsell, RCSB Protein Data Bank; doi: 10.2210/rcsb_pdb/goodsell-gallery-026\n\n\n\nGoodsell gallery"
   },
   {
     "objectID": "index.html#tiling-pcr",
     "href": "index.html#tiling-pcr",
     "title": "Sequence Shenanigans",
     "section": "Tiling PCR",
-    "text": "Tiling PCR\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 13: Trippy tunes and tiling PCR design software"
+    "text": "Tiling PCR\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 17: Trippy tunes and tiling PCR design software"
   },
   {
     "objectID": "index.html#infant-microbiome",
     "href": "index.html#infant-microbiome",
     "title": "Sequence Shenanigans",
     "section": "Infant microbiome",
-    "text": "Infant microbiome\n\n\n\n\n\n\n\n\n\n\nFigure 14: Alpha diversities over time\n\n\n\n\\[\nH_s = - \\sum_{i=1}^k p_i log_2(p_i)\n\\qquad(2)\\]"
+    "text": "Infant microbiome\n\n\n\n\n\n\n\n\n\n\nFigure 18: Alpha diversities over time\n\n\n\n\\[\nH_s = - \\sum_{i=1}^k p_i log_2(p_i)\n\\qquad(2)\\]"
   },
   {
     "objectID": "index.html#example-results",
     "href": "index.html#example-results",
     "title": "Sequence Shenanigans",
     "section": "…Example results",
-    "text": "…Example results\n\n\n\n\n\n\n\n\n\n\n\nKrona reports\nKrona 5b\nKrona 5d\nPavian analysis\n\n\n\n\n\nFigure 15"
+    "text": "…Example results\n\n\n\n\n\n\n\n\n\n\n\nKrona reports\nKrona 5b\nKrona 5d\nPavian analysis\n\n\n\n\n\nFigure 19"
   }
 ]
