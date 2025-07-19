@@ -223,9 +223,12 @@ https://www.pacb.com/technology/hifi-sequencing/how-it-works/
 
 ## Oxford Nanopore Technologies
 
-::: {#fig-ont layout-ncol=1}
+::: {#fig-ont layout-ncol=2}
 
-![](media/MinION_GIF_08.gif)
+![](media/ont_ASIC.webp){width="300"}
+
+![](media/MinION_GIF_08.gif){width="800"}
+
 
 https://nanoporetech.com/platform/technology/basecalling
 
@@ -260,6 +263,16 @@ https://nanoporetech.com/platform/accuracy
     width="1120" height="630" 
 >}}
 
+## Inovations from different fields
+
+::: {#fig-nobel layout-ncol=1}
+
+![](media/2024_nobel_prizes.png)
+
+https://doi.org/10.1038/s41746-024-01345-9
+:::
+
+[Blog on basecalling](https://nanoporetech.com/blog/transforming-basecalling-in-genomic-sequencing)
 
 ## Many more developments
 
@@ -369,11 +382,63 @@ Snapshot of tiled PCR products mapped against SARS-COV2 ref genome
 A dodgy pink calculator and the lemonade
 :::
 
+## Contributing to a global effort
+
+::: {#fig-global-covid layout-ncol="1"}
+
+![](media/sars-cov2-global.png)
+
+[GISAID](https://nextstrain.org/ncov/gisaid/global/6m?branchLabel=emerging_lineage&tl=clade_membership)
+
+:::
+
+## ... analysis
+
+[early days](html/ONT%20sequencing.html)
+
+::: {#fig-early_days layout-ncol="1"}
+
+![](media/bio2.png)
+
+https://epi2me.nanoporetech.com/sarscov2-midnight-analysis/
+
+:::
+
+[Midnight Analysis](https://epi2me.nanoporetech.com/sarscov2-midnight-analysis/)
+
+[Example results](html/wf-artic-040822_ONT.html)
+
+
+## A kraken and a bag of pebbles
+
+From k-mer counting to taxonomic classification
+
+::: {#fig-kraken layout-ncol="2"}
+
+![](media/kraken.png)
+
+![](media/kraken_nature_methods.png)
+
+Flux AI: Kraken sea monster with a tentacle in a bag of differently coloured pebbles  and DOI:https://doi.org/10.1038/s41596-022-00738-y
+
+:::
 
 
 
 
-## Infant microbiome
+## Infant microbiome/virome
+
+Shotgun/Random hexamer amplification
+
+::: {#fig-gut layout-ncol="1"}
+
+![](media/FDA_oks.webp)
+
+https://www.livescience.com/health/medicine-drugs/fda-approves-1st-pill-made-from-human-poop
+:::
+
+
+## Diversities
 
 ::: {#fig-alpha layout-ncol=1}
 ![](media/infant_alpha.png){width="65%"}
@@ -391,6 +456,9 @@ $${#eq-Shannon}
 
 ![](media/milton.png)
 
+DOI: 10.1016/j.virusres.2024.199403
+:::
+
 * Krona reports
     
     [Krona 5b](html/krona/VRM-5B.krona.html)
@@ -400,4 +468,35 @@ $${#eq-Shannon}
 * [Pavian analysis](html/Uploaded_sample_set-report.html)
 
 
+## Urban fungi
+
+ Scanning electron micrograph images
+
+::: {#fig-sem layout-ncol="2"}
+
+![](media/tyla_SEM1.jpg){width="400"}
+
+![](media/tyla_SEM2.jpg){width="400"}
+
+https://www.ufs.ac.za/templates/news-archive-item/campus-news/2024/november/polluted-freshwater-a-risk-for-the-environment-and-human-health
 :::
+
+
+## Fungi results
+
+::: {#fig-tyla-pubs layout-nrow="2"}
+
+![](media/Tyla_pub1.png)
+
+![](media/Tyla_pub2.png)
+
+Fungi classification (culture/ITS) and resistance
+:::
+
+[Analysis of ONT reads by BLASTn](html/Blast_raw_reads_against_nt.html)
+
+## 16s rRNA and ITS classifications
+
+A complete cost effective workflow
+
+{{< video media/seq_detection_web_app.mp4 >}}

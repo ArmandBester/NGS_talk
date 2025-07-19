@@ -95,7 +95,7 @@
     "href": "index.html#oxford-nanopore-technologies",
     "title": "Sequence Shenanigans",
     "section": "Oxford Nanopore Technologies",
-    "text": "Oxford Nanopore Technologies\n\n\n\n\n\n\n\n\n\n\nFigure 10: https://nanoporetech.com/platform/technology/basecalling"
+    "text": "Oxford Nanopore Technologies\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 10: https://nanoporetech.com/platform/technology/basecalling"
   },
   {
     "objectID": "index.html#the-ont-principle",
@@ -112,18 +112,25 @@
     "text": "Oxford Nanopore Technologies: sales pitch"
   },
   {
+    "objectID": "index.html#inovations-from-different-fields",
+    "href": "index.html#inovations-from-different-fields",
+    "title": "Sequence Shenanigans",
+    "section": "Inovations from different fields",
+    "text": "Inovations from different fields\n\n\n\n\n\n\n\n\n\n\nFigure 12: https://doi.org/10.1038/s41746-024-01345-9\n\n\n\nBlog on basecalling"
+  },
+  {
     "objectID": "index.html#many-more-developments",
     "href": "index.html#many-more-developments",
     "title": "Sequence Shenanigans",
     "section": "Many more developments",
-    "text": "Many more developments\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 12: Yanzhe Qin, et al (2025) DOI: https://doi.org/10.1038/s41592-025-02730-2"
+    "text": "Many more developments\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 13: Yanzhe Qin, et al (2025) DOI: https://doi.org/10.1038/s41592-025-02730-2"
   },
   {
     "objectID": "index.html#cost-vs.-moore",
     "href": "index.html#cost-vs.-moore",
     "title": "Sequence Shenanigans",
     "section": "Cost vs. Moore",
-    "text": "Cost vs. Moore\n\n\n\n\n\n\n\n\n\n\nFigure 13: https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Costs-Data"
+    "text": "Cost vs. Moore\n\n\n\n\n\n\n\n\n\n\nFigure 14: https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Costs-Data"
   },
   {
     "objectID": "index.html#phred-q-scores",
@@ -137,55 +144,104 @@
     "href": "index.html#raw-data-and-quality",
     "title": "Sequence Shenanigans",
     "section": "Raw data and quality",
-    "text": "Raw data and quality\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 14: https://www.drive5.com/usearch/manual/fastq_files.html"
+    "text": "Raw data and quality\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 15: https://www.drive5.com/usearch/manual/fastq_files.html"
   },
   {
     "objectID": "index.html#the-puzzel-and-the-box",
     "href": "index.html#the-puzzel-and-the-box",
     "title": "Sequence Shenanigans",
     "section": "The puzzel and the box",
-    "text": "The puzzel and the box\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 15: DallE generated flowers & Read types"
+    "text": "The puzzel and the box\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 16: DallE generated flowers & Read types"
   },
   {
     "objectID": "index.html#sars-cov-2",
     "href": "index.html#sars-cov-2",
     "title": "Sequence Shenanigans",
     "section": "SARS-CoV-2",
-    "text": "SARS-CoV-2\n\n\n\n\n\n\n\n\n\n\nFigure 16: Illustration by David S. Goodsell, RCSB Protein Data Bank; doi: 10.2210/rcsb_pdb/goodsell-gallery-026\n\n\n\nGoodsell gallery"
+    "text": "SARS-CoV-2\n\n\n\n\n\n\n\n\n\n\nFigure 17: Illustration by David S. Goodsell, RCSB Protein Data Bank; doi: 10.2210/rcsb_pdb/goodsell-gallery-026\n\n\n\nGoodsell gallery"
   },
   {
     "objectID": "index.html#tiling-pcr",
     "href": "index.html#tiling-pcr",
     "title": "Sequence Shenanigans",
     "section": "Tiling PCR",
-    "text": "Tiling PCR\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 17: Trippy tunes and tiling PCR design software"
+    "text": "Tiling PCR\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 18: Trippy tunes and tiling PCR design software"
   },
   {
     "objectID": "index.html#tiled-reads-mapped",
     "href": "index.html#tiled-reads-mapped",
     "title": "Sequence Shenanigans",
     "section": "Tiled reads mapped",
-    "text": "Tiled reads mapped\n\n\n\n\n\n\n\n\n\n\nFigure 18: Snapshot of tiled PCR products mapped against SARS-COV2 ref genome"
+    "text": "Tiled reads mapped\n\n\n\n\n\n\n\n\n\n\nFigure 19: Snapshot of tiled PCR products mapped against SARS-COV2 ref genome"
   },
   {
     "objectID": "index.html#necessity-and-the-pink-calculator",
     "href": "index.html#necessity-and-the-pink-calculator",
     "title": "Sequence Shenanigans",
     "section": "Necessity and the pink calculator",
-    "text": "Necessity and the pink calculator\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 19: A dodgy pink calculator and the lemonade"
+    "text": "Necessity and the pink calculator\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 20: A dodgy pink calculator and the lemonade"
   },
   {
-    "objectID": "index.html#infant-microbiome",
-    "href": "index.html#infant-microbiome",
+    "objectID": "index.html#contributing-to-a-global-effort",
+    "href": "index.html#contributing-to-a-global-effort",
     "title": "Sequence Shenanigans",
-    "section": "Infant microbiome",
-    "text": "Infant microbiome\n\n\n\n\n\n\n\n\n\n\nFigure 20: Alpha diversities over time\n\n\n\n\\[\nH_s = - \\sum_{i=1}^k p_i log_2(p_i)\n\\qquad(2)\\]"
+    "section": "Contributing to a global effort",
+    "text": "Contributing to a global effort\n\n\n\n\n\n\n\n\n\n\nFigure 21: GISAID"
+  },
+  {
+    "objectID": "index.html#analysis",
+    "href": "index.html#analysis",
+    "title": "Sequence Shenanigans",
+    "section": "… analysis",
+    "text": "… analysis\nearly days\n\n\n\n\n\n\n\n\n\n\nFigure 22: https://epi2me.nanoporetech.com/sarscov2-midnight-analysis/\n\n\n\nMidnight Analysis\nExample results"
+  },
+  {
+    "objectID": "index.html#a-kraken-and-a-bag-of-pebbles",
+    "href": "index.html#a-kraken-and-a-bag-of-pebbles",
+    "title": "Sequence Shenanigans",
+    "section": "A kraken and a bag of pebbles",
+    "text": "A kraken and a bag of pebbles\nFrom k-mer counting to taxonomic classification\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 23: Flux AI: Kraken sea monster with a tentacle in a bag of differently coloured pebbles and DOI:https://doi.org/10.1038/s41596-022-00738-y"
+  },
+  {
+    "objectID": "index.html#infant-microbiomevirome",
+    "href": "index.html#infant-microbiomevirome",
+    "title": "Sequence Shenanigans",
+    "section": "Infant microbiome/virome",
+    "text": "Infant microbiome/virome\nShotgun/Random hexamer amplification\n\n\n\n\n\n\n\n\n\n\nFigure 24: https://www.livescience.com/health/medicine-drugs/fda-approves-1st-pill-made-from-human-poop"
+  },
+  {
+    "objectID": "index.html#diversities",
+    "href": "index.html#diversities",
+    "title": "Sequence Shenanigans",
+    "section": "Diversities",
+    "text": "Diversities\n\n\n\n\n\n\n\n\n\n\nFigure 25: Alpha diversities over time\n\n\n\n\\[\nH_s = - \\sum_{i=1}^k p_i log_2(p_i)\n\\qquad(2)\\]"
   },
   {
     "objectID": "index.html#example-results",
     "href": "index.html#example-results",
     "title": "Sequence Shenanigans",
     "section": "…Example results",
-    "text": "…Example results\n\n\n\n\n\n\n\n\n\n\n\nKrona reports\nKrona 5b\nKrona 5d\nPavian analysis\n\n\n\n\n\nFigure 21"
+    "text": "…Example results\n\n\n\n\n\n\n\n\n\n\nFigure 26: DOI: 10.1016/j.virusres.2024.199403\n\n\n\n\nKrona reports\nKrona 5b\nKrona 5d\nPavian analysis"
+  },
+  {
+    "objectID": "index.html#urban-fungi",
+    "href": "index.html#urban-fungi",
+    "title": "Sequence Shenanigans",
+    "section": "Urban fungi",
+    "text": "Urban fungi\nScanning electron micrograph images\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 27: https://www.ufs.ac.za/templates/news-archive-item/campus-news/2024/november/polluted-freshwater-a-risk-for-the-environment-and-human-health"
+  },
+  {
+    "objectID": "index.html#fungi-results",
+    "href": "index.html#fungi-results",
+    "title": "Sequence Shenanigans",
+    "section": "Fungi results",
+    "text": "Fungi results\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 28: Fungi classification (culture/ITS) and resistance\n\n\n\nAnalysis of ONT reads by BLASTn"
+  },
+  {
+    "objectID": "index.html#s-rrna-and-its-classifications",
+    "href": "index.html#s-rrna-and-its-classifications",
+    "title": "Sequence Shenanigans",
+    "section": "16s rRNA and ITS classifications",
+    "text": "16s rRNA and ITS classifications\nA complete cost effective workflow"
   }
 ]
