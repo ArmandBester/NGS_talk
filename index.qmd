@@ -349,7 +349,7 @@ DallE generated flowers & Read types
 
 Illustration by David S. Goodsell, RCSB Protein Data Bank; doi: 10.2210/rcsb_pdb/goodsell-gallery-026
 :::
-[Goodsell gallery](https://pdb101.rcsb.org/sci-art/goodsell-gallery/)
+[Goodsell gallery](https://pdb101.rcsb.org/sci-art/goodsell-gallery/) or [Goodsell at Scripps](https://ccsb.scripps.edu/goodsell/)
 
 
 ## Tiling PCR
@@ -499,4 +499,4 @@ Fungi classification (culture/ITS) and resistance
 
 A complete cost effective workflow
 
-{{< video media/seq_detection_web_app.mp4 >}}
+{{< video media/seq_detection_web_app.webm >}}
