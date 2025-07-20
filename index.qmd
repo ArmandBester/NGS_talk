@@ -500,3 +500,103 @@ Fungi classification (culture/ITS) and resistance
 A complete cost effective workflow
 
 {{< video media/seq_detection_web_app.webm >}}
+
+
+## Mozzie hitchhikers
+
+::: {#fig-mozzie-hitch layout-ncol="1"}
+
+![](media/DALLE_mosquito.png){width="50%"}
+
+DallE: Depict a mosquito in photorealistic style
+
+:::
+
+## 'Bin' reads and BLAST
+
+[https://github.com/avierstr/amplicon_sorter](https://github.com/avierstr/amplicon_sorter)
+
+
+* Can handle multiple loci/genes/markers with single barcode
+* Groups or bins raw reads into consensus sequences with higher accuracies
+
+[Example](html/Nos_Blast.html)
+
+
+::: {#fig-cluster layout-ncol="2"}
+
+![](media/ortho_clustermap_edit_DvJ.png){width="400"}
+
+![](media/sinv_clustermap_edit.svg.2024_12_12_11_33_58.0.png){width="400"}
+
+Clustermaps showing identity between sequences
+:::
+
+
+## WGS of Bagaza virus
+
+::: {#fig-bagaza-publ layout-ncol="1"}
+
+![](media/Bagaza_publ.png){width="30%"}
+
+DOI: 10.1016/j.jviromet.2024.114917
+
+:::
+
+::: {#fig-bagaza-publ layout-ncol="2"}
+
+![](media/bagaza-tiles.jpg){width="70%"}
+
+![](media/Bagasa_tree.jpg){width="70%"}
+
+PCR tiles and Tree
+
+:::
+
+
+## SMART-9N, *de novo* discovery
+
+::: {#fig-smart-9N-concept layout-ncol="1"}
+
+![](media/smart-9n.png)
+
+SMART-9N concept [Paper DOI: 10.12688/wellcomeopenres.17170.2](https://pmc.ncbi.nlm.nih.gov/articles/PMC10189296/)
+:::
+
+## ... Jingmenvirus
+
+::: {#fig-bagaza-publ layout-ncol="1"}
+
+![](media/jignmen_lit.png){width="70%"}
+
+DOI: https://doi.org/10.1038/s44298-025-00106-z
+
+:::
+
+---
+
+::: {#fig-bagaza-publ layout-ncol="2"}
+
+![](media/jingmen-world.webp){width="20%"}
+
+![](media/jinmen-cycle.webp){width="20%"}
+
+DOI: https://doi.org/10.1038/s44298-025-00106-z
+
+:::
+
+
+* Found evidence for all segments using SMART-9N
+* Attempt to culture
+* Designed primers for WGS
+* First in SA
+
+## Plos
+
+
+## Single cell RNA sequencing
+
+
+
+## Thank you
+
