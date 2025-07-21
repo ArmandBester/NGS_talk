@@ -189,7 +189,7 @@ Rhoads A and Fai Au K (2015), doi: 10.1016/j.gpb.2015.08.002
     * The smallest available volume for light detection, removing background
 * Each one of these ZMWs have a DNA polymerase immobilized at the bottom
     * This polymerase can then bind to either of the hairpins
-    * Fluorescent labeled nucleotides are provided to the ZMW and thus enzyme
+    * Fluorescent labeled nucleotides are provided to the ZMW and thus the enzyme
         * Each of the 4 nucleotides are labeled with fluorophores emitting different wavelengths
             * Allows differentiation
         * Flourophores are covalently attached on the γ-phosphate
@@ -263,7 +263,7 @@ https://nanoporetech.com/platform/accuracy
     width="1120" height="630" 
 >}}
 
-## Inovations from different fields
+## Innovations from different fields
 
 ::: {#fig-nobel layout-ncol=1}
 
@@ -330,9 +330,9 @@ https://www.drive5.com/usearch/manual/fastq_files.html
 
 
 
-## The puzzel and the box
+## The puzzle and the box
 
-::: {#fig-puzzel layout-ncol=2}
+::: {#fig-puzzle layout-ncol=2}
 
 ![](media/DallE_flowers.png){width="100%"}
 
@@ -532,6 +532,28 @@ DallE: Depict a mosquito in photorealistic style
 Clustermaps showing identity between sequences
 :::
 
+## ... also ID vectors and molecular marker confirmation
+
+::: {#fig-wyeomyia_mitchellii layout-ncol="2"}
+
+![](media/Wyeomyia_mitchellii.webp){width="200"}
+
+![](media/bromeliad2.webp){width="400"}
+
+Identification of arboviruses in mosquito populations in KwaZulu-Natal, South Africa
+and the first record of Wyeomyia mitchellii in the Old World (PLOS Neglected Tropical Diseases)
+:::
+
+::: {#fig-wyeomyia_mitchellii layout-ncol="1"}
+
+![](media/bromeliad_parragraph.png){width="400"}
+
+
+COI showed 99% identity against Genbank ref.
+
+:::
+
+
 
 ## WGS of Bagaza virus
 
@@ -585,18 +607,26 @@ DOI: https://doi.org/10.1038/s44298-025-00106-z
 
 :::
 
-
 * Found evidence for all segments using SMART-9N
 * Attempt to culture
 * Designed primers for WGS
 * First in SA
 
-## Plos
+
+## Other applications in the pileline
+
+* ONT sequencing genetics 
+    * mutliplex
+    * easy bioinfomatics
+* Mycobacteria
+    * WGS
+        * phylogenomics
+        * drug resistance
+        * virulence 
+    * tNGS / mycobiome, diagnostics
+* Single cell mRNA sequencing
+    * ?
 
 
-## Single cell RNA sequencing
-
-
-
-## Thank you
+# Thank you
 
