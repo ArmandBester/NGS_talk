@@ -8,7 +8,7 @@ chalkboard: true
 title-slide-attributes:
     data-background-image: media/Intro_DNA_mag.png
     data-background-size: contain
-    data-background-opacity: "0.1"
+    data-background-opacity: "0.2"
 
 ---
 
@@ -613,6 +613,17 @@ DOI: https://doi.org/10.1038/s44298-025-00106-z
 * First in SA
 
 
+## Mycobacterium sequencing
+
+::: {#fig-myco-wgs layout-ncol="1"}
+
+![](media/myco_hybracter.gif){width="550"}
+
+Assemblies of mycobacterium isolates
+
+:::
+
+
 ## Other applications in the pileline
 
 * ONT sequencing genetics 
@@ -627,6 +638,36 @@ DOI: https://doi.org/10.1038/s44298-025-00106-z
 * Single cell mRNA sequencing
     * ?
 
+
+## The Gray Matter
+
+:::: {.columns}
+
+::: {.column width="50%"}
+* Felicity Burt
+* Danelle van Jaarsveldt
+* Gernus Terblanche
+* Nosipho Masoto
+* Bonolo Masilo
+* Rontondwa Bubuluma
+* Dominique Goedhals
+* Martin Nyaga
+* Milton Mogotsi
+:::
+
+::: {.column width="50%"}
+* Carlien Pohl-Albertyn
+* Tyla Baker
+* Koos Albertyn
+* Stephanie Kennedy
+* Jean Klopper
+* Samantha Potgieter
+* Giovanni Ghielmetti
+* Tristen Lourens
+* Wynand Goosen
+:::
+
+::::
 
 # Thank you
 
