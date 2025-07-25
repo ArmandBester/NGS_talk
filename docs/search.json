@@ -291,7 +291,7 @@
     "href": "index.html#mycobacterium-sequencing",
     "title": "Sequence Shenanigans",
     "section": "Mycobacterium sequencing",
-    "text": "Mycobacterium sequencing\n\n\n\n\n\n\n\n\n\n\nFigure 38: Assemblies of mycobacterium isolates"
+    "text": "Mycobacterium sequencing\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 38: Assemblies of mycobacterium isolates\n\n\n\n\n\nRead QC with filtlong, pycoQC\nDe novo assembly with flye\nPolish with medaka\nAnnotate genome\n\nbakta and prokka\n\nResistance and SNP calling\n\nResFinder, abricate, TB-profiler"
   },
   {
     "objectID": "index.html#other-applications-in-the-pileline",
