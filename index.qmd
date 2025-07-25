@@ -1,7 +1,7 @@
 ---
 title: "Sequence Shenanigans"
 author: Armand Bester
-date: 22 July 2025
+date: 29 July 2025
 format: revealjs
 fontsize: 28px
 chalkboard: true
