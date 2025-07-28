@@ -294,6 +294,13 @@
     "text": "Mycobacterium sequencing\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 39: Assemblies of mycobacterium isolates\n\n\n\n\n\nRead QC with filtlong, pycoQC\nDe novo assembly with flye\nPolish with medaka\nAnnotate genome\n\nbakta and prokka\n\nResistance and SNP calling\n\nResFinder, abricate, TB-profiler"
   },
   {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "Sequence Shenanigans",
+    "section": "…",
+    "text": "…\n\n\n\n\n\n\n\n\n\n\nFigure 40: https://doi.org/10.3389/fmicb.2023.1307440"
+  },
+  {
     "objectID": "index.html#other-applications-in-the-pileline",
     "href": "index.html#other-applications-in-the-pileline",
     "title": "Sequence Shenanigans",
@@ -306,5 +313,12 @@
     "title": "Sequence Shenanigans",
     "section": "The Gray Matter",
     "text": "The Gray Matter\n\n\n\nFelicity Burt\nDanelle van Jaarsveldt\nGernus Terblanche\nNosipho Masoto\nBonolo Masilo\nRontondwa Bubuluma\nDominique Goedhals\nMartin Nyaga\nMilton Mogotsi\n\n\n\nCarlien Pohl-Albertyn\nTyla Baker\nKoos Albertyn\nStephanie Kennedy\nJean Klopper\nSamantha Potgieter\nGiovanni Ghielmetti\nTristen Lourens\nWynand Goosen\nAlbert van Eck\nFanie Reikert\nFranck Hough"
+  },
+  {
+    "objectID": "index.html#local-computing-power",
+    "href": "index.html#local-computing-power",
+    "title": "Sequence Shenanigans",
+    "section": "Local computing power",
+    "text": "Local computing power\n\n\n\n\n\n\n\n\n\n\nFigure 41: eRN/HPC at the UFS"
   }
 ]

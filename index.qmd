@@ -648,6 +648,16 @@ Assemblies of mycobacterium isolates
 
 :::::
 
+## ...
+
+::: {#fig-whole-gen-seq-mycob layout-ncol="1"}
+
+![](media/goosen.png)
+
+[https://doi.org/10.3389/fmicb.2023.1307440](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1307440/full)
+
+:::
+
 
 ## Other applications in the pileline
 
@@ -697,6 +707,17 @@ Assemblies of mycobacterium isolates
 :::
 
 ::::
+
+## Local computing power
+
+::: {#fig-computing layout-ncol="1"}
+
+![](media/eRN.white.png)
+
+eRN/HPC at the UFS
+
+
+:::
 
 # Thank you
 
