@@ -461,7 +461,7 @@ $${#eq-Shannon}
 
 ![](media/milton.png)
 
-DOI: 10.1016/j.virusres.2024.199403
+[DOI: 10.1016/j.virusres.2024.199403](https://pubmed.ncbi.nlm.nih.gov/38776984/)
 :::
 
 * Krona reports
@@ -483,7 +483,7 @@ DOI: 10.1016/j.virusres.2024.199403
 
 ![](media/tyla_SEM2.jpg){width="400"}
 
-https://www.ufs.ac.za/templates/news-archive-item/campus-news/2024/november/polluted-freshwater-a-risk-for-the-environment-and-human-health
+[https://www.ufs.ac.za/templates/news-archive-item/campus-news/2024/november/polluted-freshwater-a-risk-for-the-environment-and-human-health](https://www.ufs.ac.za/templates/news-archive-item/campus-news/2024/november/polluted-freshwater-a-risk-for-the-environment-and-human-health)
 :::
 
 
@@ -495,14 +495,14 @@ https://www.ufs.ac.za/templates/news-archive-item/campus-news/2024/november/poll
 
 ![](media/Tyla_pub2.png)
 
-Fungi classification (culture/ITS) and resistance
+Fungi classification (culture/ITS) and resistance [ DOI: 10.3390/jof11020086](https://pubmed.ncbi.nlm.nih.gov/39997380/) and [DOI: 10.2166/wh.2024.133](https://doi.org/10.2166/wh.2024.133)
 :::
 
 [Analysis of ONT reads by BLASTn](html/Blast_raw_reads_against_nt.html)
 
 ## 16s rRNA and ITS classifications
 
-A complete cost effective workflow (**Names suggestions welcome**)
+A complete cost effective workflow (**Name suggestions welcome**)
 
 {{< video media/seq_detection_web_app.webm >}}
 
@@ -546,7 +546,7 @@ Clustermaps showing identity between sequences
 ![](media/bromeliad2.webp){width="400"}
 
 Identification of arboviruses in mosquito populations in KwaZulu-Natal, South Africa
-and the first record of Wyeomyia mitchellii in the Old World (PLOS Neglected Tropical Diseases)
+and the first record of Wyeomyia mitchellii in the Old World (PLOS Neglected Tropical Diseases, In press)
 :::
 
 ::: {#fig-wyeomyia_mitchellii layout-ncol="1"}
@@ -566,7 +566,7 @@ COI showed 99% identity against Genbank ref.
 
 ![](media/Bagaza_publ.png){width="30%"}
 
-DOI: 10.1016/j.jviromet.2024.114917
+[DOI: 10.1016/j.jviromet.2024.114917](https://pubmed.ncbi.nlm.nih.gov/38503367/)
 
 :::
 
@@ -596,19 +596,19 @@ SMART-9N concept [Paper DOI: 10.12688/wellcomeopenres.17170.2](https://pmc.ncbi.
 
 ![](media/jignmen_lit.png){width="70%"}
 
-DOI: https://doi.org/10.1038/s44298-025-00106-z
+[DOI: https://doi.org/10.1038/s44298-025-00106-z](https://doi.org/10.1038/s44298-025-00106-z)
 
 :::
 
 ---
 
-::: {#fig-bagaza-publ layout-ncol="2"}
+::: {#fig-jignmen layout-ncol="2"}
 
 ![](media/jingmen-world.webp){width="20%"}
 
 ![](media/jinmen-cycle.webp){width="20%"}
 
-DOI: https://doi.org/10.1038/s44298-025-00106-z
+[DOI: https://doi.org/10.1038/s44298-025-00106-z](https://doi.org/10.1038/s44298-025-00106-z)
 
 :::
 
