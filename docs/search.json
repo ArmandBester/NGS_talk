@@ -200,98 +200,98 @@
     "href": "index.html#a-kraken-and-a-bag-of-pebbles",
     "title": "Sequence Shenanigans",
     "section": "A kraken and a bag of pebbles",
-    "text": "A kraken and a bag of pebbles\nFrom k-mer counting to taxonomic classification\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 23: Flux AI: Kraken sea monster with a tentacle in a bag of differently coloured pebbles and DOI:https://doi.org/10.1038/s41596-022-00738-y"
+    "text": "A kraken and a bag of pebbles\nFrom k-mer counting to taxonomic classification\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 23: Flux AI: Kraken sea monster with a tentacle in a bag of differently coloured pebbles and DOI:https://doi.org/10.1038/s41596-022-00738-y\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 24: Comput Math Methods Med. 2021 Jul 15;2021:1835056. doi: 10.1155/2021/1835056."
   },
   {
     "objectID": "index.html#infant-microbiomevirome",
     "href": "index.html#infant-microbiomevirome",
     "title": "Sequence Shenanigans",
     "section": "Infant microbiome/virome",
-    "text": "Infant microbiome/virome\nShotgun/Random hexamer amplification\n\n\n\n\n\n\n\n\n\n\nFigure 24: https://www.livescience.com/health/medicine-drugs/fda-approves-1st-pill-made-from-human-poop"
+    "text": "Infant microbiome/virome\nShotgun/Random hexamer amplification\n\n\n\n\n\n\n\n\n\n\nFigure 25: https://www.livescience.com/health/medicine-drugs/fda-approves-1st-pill-made-from-human-poop"
   },
   {
     "objectID": "index.html#diversities",
     "href": "index.html#diversities",
     "title": "Sequence Shenanigans",
     "section": "Diversities",
-    "text": "Diversities\n\n\n\n\n\n\n\n\n\n\nFigure 25: Alpha diversities over time\n\n\n\n\\[\nH_s = - \\sum_{i=1}^k p_i log_2(p_i)\n\\qquad(2)\\]"
+    "text": "Diversities\n\n\n\n\n\n\n\n\n\n\nFigure 26: Alpha diversities over time\n\n\n\n\\[\nH_s = - \\sum_{i=1}^k p_i log_2(p_i)\n\\qquad(2)\\]"
   },
   {
     "objectID": "index.html#example-results",
     "href": "index.html#example-results",
     "title": "Sequence Shenanigans",
     "section": "…Example results",
-    "text": "…Example results\n\n\n\n\n\n\n\n\n\n\nFigure 26: DOI: 10.1016/j.virusres.2024.199403\n\n\n\n\nKrona reports\nKrona 5b\nKrona 5d\nPavian analysis"
+    "text": "…Example results\n\n\n\n\n\n\n\n\n\n\nFigure 27: DOI: 10.1016/j.virusres.2024.199403\n\n\n\n\nKrona reports\nKrona 5b\nKrona 5d\nPavian analysis"
   },
   {
     "objectID": "index.html#urban-fungi",
     "href": "index.html#urban-fungi",
     "title": "Sequence Shenanigans",
     "section": "Urban fungi",
-    "text": "Urban fungi\nScanning electron micrograph images\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 27: https://www.ufs.ac.za/templates/news-archive-item/campus-news/2024/november/polluted-freshwater-a-risk-for-the-environment-and-human-health"
+    "text": "Urban fungi\nScanning electron micrograph images\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 28: https://www.ufs.ac.za/templates/news-archive-item/campus-news/2024/november/polluted-freshwater-a-risk-for-the-environment-and-human-health"
   },
   {
     "objectID": "index.html#fungi-results",
     "href": "index.html#fungi-results",
     "title": "Sequence Shenanigans",
     "section": "Fungi results",
-    "text": "Fungi results\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 28: Fungi classification (culture/ITS) and resistance\n\n\n\nAnalysis of ONT reads by BLASTn"
+    "text": "Fungi results\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 29: Fungi classification (culture/ITS) and resistance\n\n\n\nAnalysis of ONT reads by BLASTn"
   },
   {
     "objectID": "index.html#s-rrna-and-its-classifications",
     "href": "index.html#s-rrna-and-its-classifications",
     "title": "Sequence Shenanigans",
     "section": "16s rRNA and ITS classifications",
-    "text": "16s rRNA and ITS classifications\nA complete cost effective workflow"
+    "text": "16s rRNA and ITS classifications\nA complete cost effective workflow (Names suggestions welcome)"
   },
   {
     "objectID": "index.html#mozzie-hitchhikers",
     "href": "index.html#mozzie-hitchhikers",
     "title": "Sequence Shenanigans",
     "section": "Mozzie hitchhikers",
-    "text": "Mozzie hitchhikers\n\n\n\n\n\n\n\n\n\n\nFigure 29: DallE: Depict a mosquito in photorealistic style"
+    "text": "Mozzie hitchhikers\n\n\n\n\n\n\n\n\n\n\nFigure 30: DallE: Depict a mosquito in photorealistic style"
   },
   {
     "objectID": "index.html#bin-reads-and-blast",
     "href": "index.html#bin-reads-and-blast",
     "title": "Sequence Shenanigans",
     "section": "‘Bin’ reads and BLAST",
-    "text": "‘Bin’ reads and BLAST\nhttps://github.com/avierstr/amplicon_sorter\n\nCan handle multiple loci/genes/markers with single barcode\nGroups or bins raw reads into consensus sequences with higher accuracies\n\nExample\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 30: Clustermaps showing identity between sequences"
+    "text": "‘Bin’ reads and BLAST\nhttps://github.com/avierstr/amplicon_sorter\n\nCan handle multiple loci/genes/markers with single barcode\nGroups or bins raw reads into consensus sequences with higher accuracies\n\nExample\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 31: Clustermaps showing identity between sequences"
   },
   {
     "objectID": "index.html#also-id-vectors-and-molecular-marker-confirmation",
     "href": "index.html#also-id-vectors-and-molecular-marker-confirmation",
     "title": "Sequence Shenanigans",
     "section": "… also ID vectors and molecular marker confirmation",
-    "text": "… also ID vectors and molecular marker confirmation\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 31: Identification of arboviruses in mosquito populations in KwaZulu-Natal, South Africa and the first record of Wyeomyia mitchellii in the Old World (PLOS Neglected Tropical Diseases)\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 32: COI showed 99% identity against Genbank ref."
+    "text": "… also ID vectors and molecular marker confirmation\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 32: Identification of arboviruses in mosquito populations in KwaZulu-Natal, South Africa and the first record of Wyeomyia mitchellii in the Old World (PLOS Neglected Tropical Diseases)\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 33: COI showed 99% identity against Genbank ref."
   },
   {
     "objectID": "index.html#wgs-of-bagaza-virus",
     "href": "index.html#wgs-of-bagaza-virus",
     "title": "Sequence Shenanigans",
     "section": "WGS of Bagaza virus",
-    "text": "WGS of Bagaza virus\n\n\n\n\n\n\n\n\n\n\nFigure 33: DOI: 10.1016/j.jviromet.2024.114917\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 34: PCR tiles and Tree"
+    "text": "WGS of Bagaza virus\n\n\n\n\n\n\n\n\n\n\nFigure 34: DOI: 10.1016/j.jviromet.2024.114917\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 35: PCR tiles and Tree"
   },
   {
     "objectID": "index.html#smart-9n-de-novo-discovery",
     "href": "index.html#smart-9n-de-novo-discovery",
     "title": "Sequence Shenanigans",
     "section": "SMART-9N, de novo discovery",
-    "text": "SMART-9N, de novo discovery\n\n\n\n\n\n\n\n\n\n\nFigure 35: SMART-9N concept Paper DOI: 10.12688/wellcomeopenres.17170.2"
+    "text": "SMART-9N, de novo discovery\n\n\n\n\n\n\n\n\n\n\nFigure 36: SMART-9N concept Paper DOI: 10.12688/wellcomeopenres.17170.2"
   },
   {
     "objectID": "index.html#jingmenvirus",
     "href": "index.html#jingmenvirus",
     "title": "Sequence Shenanigans",
     "section": "… Jingmenvirus",
-    "text": "… Jingmenvirus\n\n\n\n\n\n\n\n\n\n\nFigure 36: DOI: https://doi.org/10.1038/s44298-025-00106-z"
+    "text": "… Jingmenvirus\n\n\n\n\n\n\n\n\n\n\nFigure 37: DOI: https://doi.org/10.1038/s44298-025-00106-z"
   },
   {
     "objectID": "index.html#mycobacterium-sequencing",
     "href": "index.html#mycobacterium-sequencing",
     "title": "Sequence Shenanigans",
     "section": "Mycobacterium sequencing",
-    "text": "Mycobacterium sequencing\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 38: Assemblies of mycobacterium isolates\n\n\n\n\n\nRead QC with filtlong, pycoQC\nDe novo assembly with flye\nPolish with medaka\nAnnotate genome\n\nbakta and prokka\n\nResistance and SNP calling\n\nResFinder, abricate, TB-profiler"
+    "text": "Mycobacterium sequencing\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 39: Assemblies of mycobacterium isolates\n\n\n\n\n\nRead QC with filtlong, pycoQC\nDe novo assembly with flye\nPolish with medaka\nAnnotate genome\n\nbakta and prokka\n\nResistance and SNP calling\n\nResFinder, abricate, TB-profiler"
   },
   {
     "objectID": "index.html#other-applications-in-the-pileline",
@@ -305,6 +305,6 @@
     "href": "index.html#the-gray-matter",
     "title": "Sequence Shenanigans",
     "section": "The Gray Matter",
-    "text": "The Gray Matter\n\n\n\nFelicity Burt\nDanelle van Jaarsveldt\nGernus Terblanche\nNosipho Masoto\nBonolo Masilo\nRontondwa Bubuluma\nDominique Goedhals\nMartin Nyaga\nMilton Mogotsi\n\n\n\nCarlien Pohl-Albertyn\nTyla Baker\nKoos Albertyn\nStephanie Kennedy\nJean Klopper\nSamantha Potgieter\nGiovanni Ghielmetti\nTristen Lourens\nWynand Goosen"
+    "text": "The Gray Matter\n\n\n\nFelicity Burt\nDanelle van Jaarsveldt\nGernus Terblanche\nNosipho Masoto\nBonolo Masilo\nRontondwa Bubuluma\nDominique Goedhals\nMartin Nyaga\nMilton Mogotsi\n\n\n\nCarlien Pohl-Albertyn\nTyla Baker\nKoos Albertyn\nStephanie Kennedy\nJean Klopper\nSamantha Potgieter\nGiovanni Ghielmetti\nTristen Lourens\nWynand Goosen\nAlbert van Eck\nFanie Reikert\nFranck Hough"
   }
 ]

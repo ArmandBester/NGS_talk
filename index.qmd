@@ -423,8 +423,13 @@ Flux AI: Kraken sea monster with a tentacle in a bag of differently coloured peb
 
 :::
 
+::: {#fig-kraken layout-ncol="1"}
 
+![](media/kmers.png){width="20%"}
 
+Comput Math Methods Med. 2021 Jul 15;2021:1835056. doi: 10.1155/2021/1835056.
+
+:::
 
 ## Infant microbiome/virome
 
@@ -497,7 +502,7 @@ Fungi classification (culture/ITS) and resistance
 
 ## 16s rRNA and ITS classifications
 
-A complete cost effective workflow
+A complete cost effective workflow (**Names suggestions welcome**)
 
 {{< video media/seq_detection_web_app.webm >}}
 
@@ -685,6 +690,9 @@ Assemblies of mycobacterium isolates
 * Giovanni Ghielmetti
 * Tristen Lourens
 * Wynand Goosen
+* Albert van Eck
+* Fanie Reikert
+* Franck Hough
 :::
 
 ::::
