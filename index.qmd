@@ -654,6 +654,7 @@ Assemblies of mycobacterium isolates
 * ONT sequencing genetics 
     * mutliplex
     * easy bioinfomatics
+* CCHF WGS assay
 * Mycobacteria
     * WGS
         * phylogenomics
