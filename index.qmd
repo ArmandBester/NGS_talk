@@ -682,7 +682,7 @@ Assemblies of mycobacterium isolates
         * drug resistance
         * virulence 
     * tNGS / mycobiome, diagnostics
-* C albicans mRNA sequencing
+* C. albicans mRNA sequencing
 
 
 
