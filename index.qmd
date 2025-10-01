@@ -1,8 +1,19 @@
 ---
 title: "A Sequence of Shenanigans"
-author: Armand Bester
-date: 29 July 2025
-format: revealjs
+author:
+  - name: Armand Bester
+    orcid: 0000-0002-5795-5313
+    email: besterpa@ufs.ac.za
+    affiliations:
+      - name: National Health Laboratory Services & UFS
+        department: Department of Virology
+        city: Bloemfontein
+        state: Free State
+date: 02 October 2025
+format: 
+    revealjs:
+        logo: media/logo.png
+        css: logo.css
 fontsize: 28px
 chalkboard: true
 title-slide-attributes:
@@ -47,15 +58,15 @@ Leong IUS, et al (2014) DOI: 10.3390/medsci2020098. **a)** 454/IonTorrent, **b)*
         * ... 'primers' are attached to the beads
     * Beads are embedded in oil droplets
         * one bead per droplet
-        * Micro PCR vesecle
-    * Vesecles are disrupted
+        * Micro PCR vesicle
+    * Vesicle are disrupted
 
 ---
 
 * Wells fit only one bead
 * Amplification with only one of A,C,G,T provided at a time
 * Incorporation of a dNTP yields a proton / $H^+$ ion
-* pH changes releative to the number of specific dNTP incorporation
+* pH changes relative to the number of specific dNTP incorporation
 
 ::: {#fig-clonal layout-ncol=1}
 
@@ -66,9 +77,9 @@ Escalante AE, et al (2014) DOI: 10.7550/rmb.43498.
 :::
 
 
-## Ion Torrnet: Pros vs Cons
+## Ion Torrent: Pros vs Cons
 
-* Pros: Faster, cheeper, natural chemistry, no ropes and pulleys 
+* Pros: Faster, cheaper, natural chemistry, no ropes and pulleys 
 * Cons: Homopolymer issues, `slightly` lower Q-scores compared to Illumina
 
 ::: {#fig-homopol layout-ncol=1}
@@ -185,7 +196,7 @@ Rhoads A and Fai Au K (2015), doi: 10.1016/j.gpb.2015.08.002
 
 ---
 
-* The SMRTbell is loaded onto chip and diffuses into one of many sequencing units, called a zero-mode waveguide ZMW
+* The SMRTbell is loaded onto chip and diffuses into one of many sequencing units, called a zero-mode waveguide (ZMW)
     * The smallest available volume for light detection, removing background
 * Each one of these ZMWs have a DNA polymerase immobilized at the bottom
     * This polymerase can then bind to either of the hairpins
@@ -197,12 +208,12 @@ Rhoads A and Fai Au K (2015), doi: 10.1016/j.gpb.2015.08.002
 
 ---
 
-* Along with the the ZMW a camera can record these light flashes and the sequenced is deduced
+* Along with the the ZMW a camera can record these light flashes and the sequences is deduced
 * A single pass results in a sequence accuracy of 11-15%
     * However, since the template is circular, multiple passes is possible
         * Due to the randomness of error an accuracy rate of ~99.9% is possible
         * Sequencing and passes are possible until the enzyme stops working or for the duration of the enzymes lifetime
-        * There is a tradeof between sequence accuracy and read length
+        * There is a trade of between sequence accuracy and read length
 
 ::: {#fig-pacbio-qual layout-ncol=1}
 
@@ -680,30 +691,36 @@ Assemblies of mycobacterium isolates
 :::: {.columns}
 
 ::: {.column width="50%"}
-* Felicity Burt
-* Danelle van Jaarsveldt
-* Gernus Terblanche
-* Nosipho Masoto
-* Bonolo Masilo
-* Rontondwa Bubuluma
-* Dominique Goedhals
-* Martin Nyaga
-* Milton Mogotsi
+* Vector Borne Pathogen Research Group
+    * Felicity Burt
+    * Danelle van Jaarsveldt
+    * Gernus Terblanche
+    * Nosipho Masoto
+    * Bonolo Masilo
+    * Rontondwa Bubuluma
+* UFS NGS Unit
+    * Martin Nyaga
+    * Milton Mogotsi
+* Pathogenic Yeast Group
+    * Carlien Pohl-Albertyn
+    * Tyla Baker
+    * Koos Albertyn
 :::
 
 ::: {.column width="50%"}
-* Carlien Pohl-Albertyn
-* Tyla Baker
-* Koos Albertyn
-* Stephanie Kennedy
-* Jean Klopper
+* Haematology
+    * Stephanie Kennedy
+    * Jean Klopper
+* TB One Health
+    * Wynand Goosen
+    * Tristen Lourens
+    * Giovanni Ghielmetti
+* eResearch and HPC
+    * Albert van Eck
+    * Fanie Reikert
+    * Franck Hough
 * Samantha Potgieter
-* Giovanni Ghielmetti
-* Tristen Lourens
-* Wynand Goosen
-* Albert van Eck
-* Fanie Reikert
-* Franck Hough
+* Dominique Goedhals
 :::
 
 ::::

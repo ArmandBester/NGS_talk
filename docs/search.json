@@ -18,14 +18,14 @@
     "href": "index.html#ion-torrent",
     "title": "A Sequence of Shenanigans",
     "section": "Ion Torrent",
-    "text": "Ion Torrent\nOne molecule, one bead, one bubble, one well\n\nemPCR for clonal amplification\n\nDNA fragments or amplicons, adapters are ligated to both ends\n\nMore beads than DNA molecules\nAdapters serves as PCR priming sites\n… ‘primers’ are attached to the beads\n\nBeads are embedded in oil droplets\n\none bead per droplet\nMicro PCR vesecle\n\nVesecles are disrupted"
+    "text": "Ion Torrent\nOne molecule, one bead, one bubble, one well\n\nemPCR for clonal amplification\n\nDNA fragments or amplicons, adapters are ligated to both ends\n\nMore beads than DNA molecules\nAdapters serves as PCR priming sites\n… ‘primers’ are attached to the beads\n\nBeads are embedded in oil droplets\n\none bead per droplet\nMicro PCR vesicle\n\nVesicle are disrupted"
   },
   {
-    "objectID": "index.html#ion-torrnet-pros-vs-cons",
-    "href": "index.html#ion-torrnet-pros-vs-cons",
+    "objectID": "index.html#ion-torrent-pros-vs-cons",
+    "href": "index.html#ion-torrent-pros-vs-cons",
     "title": "A Sequence of Shenanigans",
-    "section": "Ion Torrnet: Pros vs Cons",
-    "text": "Ion Torrnet: Pros vs Cons\n\nPros: Faster, cheeper, natural chemistry, no ropes and pulleys\nCons: Homopolymer issues, slightly lower Q-scores compared to Illumina\n\n\n\n\n\n\n\n\n\n\n\nFigure 4: OpenAI: Depict a skyscraper vs a 3-story building in a cartoon style"
+    "section": "Ion Torrent: Pros vs Cons",
+    "text": "Ion Torrent: Pros vs Cons\n\nPros: Faster, cheaper, natural chemistry, no ropes and pulleys\nCons: Homopolymer issues, slightly lower Q-scores compared to Illumina\n\n\n\n\n\n\n\n\n\n\n\nFigure 4: OpenAI: Depict a skyscraper vs a 3-story building in a cartoon style"
   },
   {
     "objectID": "index.html#ion-torrrent-sales-pitch",
@@ -312,7 +312,7 @@
     "href": "index.html#the-gray-matter",
     "title": "A Sequence of Shenanigans",
     "section": "The Gray Matter",
-    "text": "The Gray Matter\n\n\n\nFelicity Burt\nDanelle van Jaarsveldt\nGernus Terblanche\nNosipho Masoto\nBonolo Masilo\nRontondwa Bubuluma\nDominique Goedhals\nMartin Nyaga\nMilton Mogotsi\n\n\n\nCarlien Pohl-Albertyn\nTyla Baker\nKoos Albertyn\nStephanie Kennedy\nJean Klopper\nSamantha Potgieter\nGiovanni Ghielmetti\nTristen Lourens\nWynand Goosen\nAlbert van Eck\nFanie Reikert\nFranck Hough"
+    "text": "The Gray Matter\n\n\n\nVector Borne Pathogen Research Group\n\nFelicity Burt\nDanelle van Jaarsveldt\nGernus Terblanche\nNosipho Masoto\nBonolo Masilo\nRontondwa Bubuluma\n\nUFS NGS Unit\n\nMartin Nyaga\nMilton Mogotsi\n\nPathogenic Yeast Group\n\nCarlien Pohl-Albertyn\nTyla Baker\nKoos Albertyn\n\n\n\n\nHaematology\n\nStephanie Kennedy\nJean Klopper\n\nTB One Health\n\nWynand Goosen\nTristen Lourens\nGiovanni Ghielmetti\n\neResearch and HPC\n\nAlbert van Eck\nFanie Reikert\nFranck Hough\n\nSamantha Potgieter\nDominique Goedhals"
   },
   {
     "objectID": "index.html#local-computing-power",
