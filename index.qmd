@@ -659,7 +659,7 @@ Assemblies of mycobacterium isolates
 :::
 
 
-## Other applications in the pileline
+## Other applications in the pipeline
 
 * ONT sequencing genetics 
     * mutliplex
@@ -671,8 +671,8 @@ Assemblies of mycobacterium isolates
         * drug resistance
         * virulence 
     * tNGS / mycobiome, diagnostics
-* Single cell mRNA sequencing
-    * ?
+* C albicans mRNA sequencing
+
 
 
 ## The Gray Matter
